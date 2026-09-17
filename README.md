@@ -40,7 +40,7 @@ The main objectives of this project are to:
 
 Provides a high-level summary of the healthcare data using key performance indicators and visualizations.
 
-![Executive Overview](Screenshot/1.%20HC%20Executive%20Overview.png)
+![Executive Overview]1.%20HC%20Executive%20Overview.png))
 
 ---
 
@@ -80,7 +80,7 @@ Analyzes medication usage and patterns in patient admissions to identify trends 
 
 Summarizes the major findings from the analysis and provides recommendations based on the patterns identified in the data.
 
-![Insights and Recommendations](Screenshot/6.%20HC%20Insights%20and%20Recommendations(1).png)
+![Insights and Recommendations](6.%20HC%20Insights%20and%20Recommendations.png)
 
 ---
 
