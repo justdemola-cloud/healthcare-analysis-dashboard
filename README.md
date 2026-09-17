@@ -40,7 +40,7 @@ The main objectives of this project are to:
 
 Provides a high-level summary of the healthcare data using key performance indicators and visualizations.
 
-![Executive Overview]1.%20HC%20Executive%20Overview.png))
+![Executive Overview](1.%20HC%20Executive%20Overview.png)
 
 ---
 
@@ -48,7 +48,7 @@ Provides a high-level summary of the healthcare data using key performance indic
 
 Analyzes patient demographics and the distribution of medical conditions across the dataset.
 
-![Demographics and Conditions](Screenshot/2.%20HC%20Demographics%20and%20conditions.png)
+![Demographics and Conditions](2.%20HC%20Demographics%20and%20conditions.png)
 
 ---
 
@@ -56,7 +56,7 @@ Analyzes patient demographics and the distribution of medical conditions across 
 
 Provides analysis of hospital-related performance and patient information, helping identify differences in hospital activity and outcomes.
 
-![Hospital Performance](Screenshot/3.%20HC%20Hospital%20Performance.png)
+![Hospital Performance](3.%20HC%20Hospital%20Performance.png)
 
 ---
 
@@ -64,7 +64,7 @@ Provides analysis of hospital-related performance and patient information, helpi
 
 Examines healthcare costs and insurance-related information, providing insight into billing and insurance coverage.
 
-![Cost and Insurance](Screenshot/4.%20HC%20Cost%20and%20Insurance.png)
+![Cost and Insurance](4.%20HC%20Cost%20and%20Insurance.png)
 
 ---
 
@@ -72,7 +72,7 @@ Examines healthcare costs and insurance-related information, providing insight i
 
 Analyzes medication usage and patterns in patient admissions to identify trends within the healthcare data.
 
-![Medications and Admission Patterns](Screenshot/5.%20HC%20Medications%20and%20Admission%20Patterns.png)
+![Medications and Admission Patterns](5.%20HC%20Medications%20and%20Admission%20Patterns.png)
 
 ---
 
